@@ -13,7 +13,10 @@
 ```
 ## Tools
 <div align="center">
-<img src=".github\light\42-svgrepo-com.svg" height="42px" style="filter: invert(1);" alt="INTRA" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset=".github\dark\42-dark.svg">
+
+  </picture>
 <img src=".github\light\github.svg" height="42px" alt="GITHUB" />
 <img src=".github\light\git.svg" height="42px" alt="GIT" />
 

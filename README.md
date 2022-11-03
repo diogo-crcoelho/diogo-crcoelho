@@ -26,27 +26,26 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-git.svg">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\git.svg">
-<img alt="GITHUB" src=".github\dark\icons8-git.svg" height="42px">
+<img alt="GIT" src=".github\dark\icons8-git.svg" height="42px">
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\discord-light.svg">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\discord.svg">
-<img alt="GITHUB" src=".github\dark\discord-light.svg" height="42px">
+<img alt="DISCORD" src=".github\dark\discord-light.svg" height="42px">
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-slack-new.svg">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\slack.svg">
-<img alt="GITHUB" src=".github\dark\icons8-slack-new.svg" height="42px">
+<img alt="SLACK" src=".github\dark\icons8-slack-new.svg" height="42px">
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-visual-studio.svg">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\vscode.svg">
-<img alt="GITHUB" src=".github\dark\icons8-visual-studio.svg" height="42px">
+<img alt="VSCODE" src=".github\dark\icons8-visual-studio.svg" height="42px">
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\terminal-filld.svg">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\terminal-fill.svg">
-<img alt="GITHUB" src=".github\dark\terminal-filld.svg" height="42px">
+<img alt="SHELL" src=".github\dark\terminal-filld.svg" height="42px">
 </picture>
-
 </div>

@@ -12,6 +12,6 @@
 /* ************************************************************************** */  
 ```
 ## Tools
-<div align="center"
+<div align="center">
 <img src=".github\github.svg" height="42px" alt="GITHUB" />
 </div>

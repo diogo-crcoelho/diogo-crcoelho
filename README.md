@@ -14,15 +14,29 @@
 ## Tools
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" height="32px">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\42-svgrepo-com.svg">
 <img alt="INTRA" src=".github\dark\42-dark.svg" height="42px">
 </picture>
+<picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-github-60.svg">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\github.svg">
-<img alt="GITHUB" src=".github\light\icons8-github-60.svg" height="42px">
+<img alt="GITHUB" src=".github\dark\icons8-github-60.svg" height="42px">
 </picture>
-<img src=".github\light\github.svg" height="42px" alt="GITHUB" />
-<img src=".github\light\git.svg" height="42px" alt="GIT" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-git.svg">
+<source media="(prefers-color-scheme: light)" srcset=".github\light\git.svg">
+<img alt="GITHUB" src=".github\dark\icons8-git.svg" height="42px">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset=".github\dark\discord-light.svg">
+<source media="(prefers-color-scheme: light)" srcset=".github\light\discord.svg">
+<img alt="GITHUB" src=".github\dark\discord-light.svg" height="42px">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-slack-new.svg">
+<source media="(prefers-color-scheme: light)" srcset=".github\light\slack.svg">
+<img alt="GITHUB" src=".github\dark\icons8-slack-new.svg" height="42px">
+</picture>
 
 </div>

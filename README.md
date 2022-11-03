@@ -16,7 +16,7 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" height="32px">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\42-svgrepo-com.svg">
-<img alt="INTRA" src=".github\dark\42-dark.svg" height="42px">
+<img alt="INTRA" src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" height="42px">
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-github-60.svg">

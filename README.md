@@ -13,8 +13,8 @@
 ```
 ## Tools
 <div align="center">
-<img src=".github\42-svgrepo-com.svg" height="42px" alt="INTRA" />
-<img src=".github\github.svg" height="42px" alt="GITHUB" />
-<img src=".github\git.svg" height="42px" alt="GIT" />
+<img src=".github\light\42-svgrepo-com.svg" height="42px" alt="INTRA" />
+<img src=".github\light\github.svg" height="42px" alt="GITHUB" />
+<img src=".github\light\git.svg" height="42px" alt="GIT" />
 
 </div>

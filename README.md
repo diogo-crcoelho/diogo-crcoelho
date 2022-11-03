@@ -20,7 +20,7 @@
 </picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\github-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\github.svg">
-<img alt="INTRA" src=".github\dark\42-dark.svg" height="42px">
+<img alt="GITHUB" src=".github\dark\github-dark.svg" height="42px">
 </picture>
 <img src=".github\light\github.svg" height="42px" alt="GITHUB" />
 <img src=".github\light\git.svg" height="42px" alt="GIT" />

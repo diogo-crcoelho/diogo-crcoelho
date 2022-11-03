@@ -38,5 +38,10 @@
 <source media="(prefers-color-scheme: light)" srcset=".github\light\slack.svg">
 <img alt="GITHUB" src=".github\dark\icons8-slack-new.svg" height="42px">
 </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-visual-studio.svg">
+<source media="(prefers-color-scheme: light)" srcset=".github\light\vscode.svg">
+<img alt="GITHUB" src=".github\dark\icons8-visual-studio.svg" height="42px">
+</picture>
 
 </div>

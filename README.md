@@ -43,5 +43,10 @@
 <source media="(prefers-color-scheme: light)" srcset=".github\light\vscode.svg">
 <img alt="GITHUB" src=".github\dark\icons8-visual-studio.svg" height="42px">
 </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset=".github\dark\terminal-filld.svg">
+<source media="(prefers-color-scheme: light)" srcset=".github\light\terminal-fill.svg">
+<img alt="GITHUB" src=".github\dark\terminal-filld.svg" height="42px">
+</picture>
 
 </div>

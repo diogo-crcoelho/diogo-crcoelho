@@ -18,7 +18,7 @@
 <source media="(prefers-color-scheme: light)" srcset=".github\light\42-svgrepo-com.svg">
 <img alt="INTRA" src=".github\dark\42-dark.svg" height="42px">
 </picture>
-<source media="(prefers-color-scheme: dark)" srcset=".github\dark\github-dark.svg">
+<source media="(prefers-color-scheme: dark)" srcset=".github\dark\GitHub-Mark-Light-64px.png">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\github.svg">
 <img alt="GITHUB" src=".github\dark\github-dark.svg" height="42px">
 </picture>

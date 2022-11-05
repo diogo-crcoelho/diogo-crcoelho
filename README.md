@@ -10,7 +10,10 @@
 /*   Updated: 2022/11/03 00:04:43 by dcarvalh         ###   ########.fr       */  
 /*                                                                            */  
 /* ************************************************************************** */  
-```
+```  
+![GitHub Snake Light](https://github.com/diogo-crcoelho/diogo-crcoelho/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/diogo-crcoelho/diogo-crcoelho/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+
 ## Tools
 <div align="center">
 <picture>

@@ -14,9 +14,6 @@
 /* ************************************************************************** */  
 ``` 
 
-
-<a href="https://github.com/oakoudad/badge42"><img width=700px src="https://badge.mediaplus.ma/greenbinary/dcarvalh?1337Badge=off&UM6P=off" alt="dcarvalh's 42 stats" /></a>
-
 ![GitHub Snake Light](https://github.com/diogo-crcoelho/diogo-crcoelho/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/diogo-crcoelho/diogo-crcoelho/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
 
